@@ -17,4 +17,4 @@ pub fn run() {
 
     // print s1
     println!("{}", s1); // This will also print 5, because s1 is still valid
-} // the scope is not over, and s is no longer valid
+} // the scope is now over, and s is no longer valid

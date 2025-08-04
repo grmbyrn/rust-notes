@@ -46,7 +46,7 @@ pub fn run() {
         println!("Condition with || not met");
     }
 
-    // with enum we can define a type with a fixed set of values
+    // Match: with enum we can define a type with a fixed set of values
     enum Coin {
         Penny,
         Nickel,
