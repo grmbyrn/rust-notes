@@ -9,5 +9,6 @@ fn main() {
     // lessons::lesson06::run();
     // lessons::lesson07::run();
     // lessons::lesson08::run();
-    lessons::lesson09::run();
+    // lessons::lesson09::run();
+    lessons::lesson10::run();
 }
